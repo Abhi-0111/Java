@@ -1,6 +1,6 @@
 # java
 
-A command line interface(CLI) calculator application built using java.
+some java projects 
 # Simple Java Console Calculator
 
 This project serves as a practical implementation of basic Java programming concepts, including user input processing and conditional logic.
